@@ -8,4 +8,5 @@ Token Holder value is created due to the dynamics of supply & demand where the m
 
 # Links
 Website: https://earth-token.com/
+
 Token sale website: https://token-sale.earth-token.com/

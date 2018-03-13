@@ -168,7 +168,7 @@ contract EARTHToken is BurnableToken {
     uint public decimals = 8;
     uint public INITIAL_SUPPLY = 100000000000000000;
 
-    function EarthToken() public {
+    function EARTHToken() public {
         totalSupply = INITIAL_SUPPLY;
         balances[msg.sender] = INITIAL_SUPPLY;
     }
